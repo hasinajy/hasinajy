@@ -36,7 +36,7 @@ I strongly believe in **clean code** and **well-structured architecture**, ensur
 
 ### 📊 GitHub Stats  
 
-![Hasina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)  
+![Hasina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hasinajy&show_icons=true&theme=radical)  
 
 ---
 
