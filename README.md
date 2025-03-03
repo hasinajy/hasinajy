@@ -1,6 +1,4 @@
-### Hasina's GitHub README  
-
-#### 👋 Hey there, I'm Hasina!  
+## 👋 Hey there, I'm Hasina!  
 
 I'm a **full-stack developer** passionate about crafting software that enhances user experience and simplifies workflows. My primary focus is **web development**, and I have a strong passion for **scripting and automation**.
 
