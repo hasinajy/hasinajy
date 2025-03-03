@@ -6,12 +6,10 @@ I'm a **full-stack developer** passionate about crafting software that enhances 
 
 ### 🚀 Tech Stack  
 
-- **Backend:** Java | Node.js (JavaScript & TypeScript)  
-- **Frontend:** React (with knowledge of Angular & Vue)  
-- **Scripting:** Python (main), Bash (for Linux tasks)  
-- **Web Technologies:** HTML, CSS, JavaScript
-
-I strongly believe in **clean code** and **well-structured architecture**, ensuring that my projects are scalable, maintainable, and efficient.  
+- **Backend:** ☕ Java | 🌐 Node.js (JavaScript & TypeScript)  
+- **Frontend:** ⚛️ React  
+- **Scripting:** 🐍 Python | 🖥️ Bash  
+- **Web Technologies:** 🌍 HTML, 🎨 CSS, 📜 JavaScript
 
 ---
 
